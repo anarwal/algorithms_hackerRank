@@ -10,3 +10,11 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/.idea/
+/com.sorting/com.sorting.iml
+/com.search/com.search.iml
+/com.dp/com.dp.iml
+/com.graphTheory/com.graphTheory.iml
+/com.bitManipulation/com.bitManipulation.iml
+/com.recursion/com.recursion.iml
+/com.strings/com.strings.iml
